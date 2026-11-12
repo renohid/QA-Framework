@@ -14,7 +14,7 @@ This repository contains the completed UI and API automation assessment for 24Sl
 The framework uses a strict Page Object Model (POM) for UI tests and isolates API logic for maximum maintainability.
 
 ```text
-24Slides QA/
+QA/
 ├── api_tests/           # API test scenarios (Gmail API)
 ├── pages/               # Page Object Model classes (CCTV Malang)
 ├── tests/               # UI test scenarios
